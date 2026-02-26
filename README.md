@@ -14,10 +14,14 @@ Data and code form the Sandoval-Velasquez et al manuscript on the volcanic CO2 d
 The reposeitory contains the following files:
 
 - README.md (this readme file)
-- Sandoval-jupyter-code.ipynb (the jupyter notebook cotainign the R analysis to reproduce the bioinformatic portion of the paper)
-- Sandoval_env_dataset - The file containing the metadata  associated with the sequences
+- Sandoval_et_al_Kaiju.ipynb (the jupyter notebook cotaining the R analysis to reproduce the taxonomic diversity analysis of the paper)
+- CN5_kaiju_Sandoval.Rdata (the Rdata to reproduce the taxonomic diversity analysis of the paper)
+- Sandoval_et_al_Funprofiler.ipynb (the jupyter notebook cotaining the R analysis to reproduce the functional diversity analysis of the paper)
+- CN5_funprofiler_Sandoval.Rdata (the Rdata to reproduce the funtional diversity analysis of the paper)
+- CN5_env_dataset.csv (the file containing the metadata associated with the sequences)
+- Biogeochemical_cycles_tax_table.csv (the file containing the KOs and genes involved in the biogeochemical cycles used for functional diversity analysis)
 
-All sequencing data generated in this study, including 16S rRNA gene amplicons and shotgun metagenomes, have been deposited in the European Nucleotide Archive (ENA) under the project accession number PRJXXX. Sequences from the Barosa et al. (2025) study are available under access number XXXXX.
+All sequencing data generated in this study, including 16S rRNA gene amplicons and shotgun metagenomes, have been deposited in the European Nucleotide Archive (ENA) under the project accession number PRJEB87249. Sequences from the Barosa et al. (2025) study are available under access number PRJEB67762. Both projects are under the Umbrella Project CoEvolve PRJEB55081.
 
 Please cite as:
 
