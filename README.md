@@ -8,6 +8,7 @@
 ![INTHEFIELD](https://img.shields.io/badge/MADE-In_the_Field-yellowgreen)
 ![made-with-Markdown](https://img.shields.io/badge/Made_with-Geobiology-orange.svg)
 [![made-with-R](https://img.shields.io/badge/Coded%20in-R-red.svg)](https://www.r-project.org/)
+[![DOI](https://zenodo.org/badge/1166351226.svg)](https://doi.org/10.5281/zenodo.18800557)
 
 Data and code form the Sandoval-Velasquez et al manuscript on the volcanic CO2 degassing and microbial carbon fixation in a caldera offshore. 
 
